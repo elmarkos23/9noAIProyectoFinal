@@ -37,4 +37,8 @@ Modo de Ejección:
  - Ejecutar el tercer archivo (3 probarImagenes.py) el resultado de reconocimiento en forma virtual con la camara y los rostros que se muestren sean reconocibles.
 
 Resultados:
- - 
+ - Toma de información
+ 
+ - Entrenamiento
+ 
+ - Recocimientos
