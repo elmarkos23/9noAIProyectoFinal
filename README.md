@@ -1,4 +1,10 @@
-# 9noAIProyectoFinal
+# Mini Proyecto Final
+
+Materia:
+
+ - Inteligencia Artificial
+
+
 Proyecto de reconocimiento de rostros
 
 Requerimientos:
@@ -8,9 +14,6 @@ Requerimientos:
  - 3.
 
 
-Materia:
-
- - Inteligencia Artificial
 
 Curso:
  - Noveno "A" Sistemas de información
