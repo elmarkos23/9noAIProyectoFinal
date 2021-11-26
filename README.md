@@ -1,11 +1,11 @@
 # Mini Proyecto Final
 
+Proyecto de reconocimiento de rostros
+
 Materia:
 
  - Inteligencia Artificial
 
-
-Proyecto de reconocimiento de rostros
 
 Requerimientos:
 
@@ -27,10 +27,14 @@ Integrantes:
 
 
 # Herramientas que se utilizo:
- - Python
+ - Python 3.10
+ - IDLE Shell
+ - GitHub
 
 Modo de Ejección:
- - 
+ - Ejecutar el primer archivo (1 capturaImagenes.py) el cual solicita el ingreso de información de los nombres y captura de fotografias
+ - Ejecutar el segundo archivo (2 entrenarImagen.py) el cual internamente toma todas las imagenes y entrenar al modelo para el reconocimientos de rostros.
+ - Ejecutar el tercer archivo (3 probarImagenes.py) el resultado de reconocimiento en forma virtual con la camara y los rostros que se muestren sean reconocibles.
 
 Resultados:
  - 
