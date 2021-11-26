@@ -13,7 +13,7 @@ Materia:
  - Inteligencia Artificial
 
 Curso:
-Noveno "A" Sistemas de información
+ - Noveno "A" Sistemas de información
 
 Integrantes:
 
