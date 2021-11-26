@@ -9,9 +9,9 @@ Proyecto de reconocimiento de rostros
 
 Requerimientos:
 
- - 1.
- - 2.
- - 3.
+ - Agregar funcionalidad, para que cada persona a ser ingresada indique su nombre. Pueden ser de 1 a 1000, cada uno debe colocar su nombre.
+ - El entrenador, puede elegir de cualquier de las tres opciones detalladas y elegir por la situación que deberá justificar.
+ - El reconocimiento facial deberá indicar el uno o el total de las personas (rostros) que aparezcan en la webcam.
 
 
 
