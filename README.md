@@ -12,11 +12,14 @@ Materia:
 
  - Inteligencia Artificial
 
+Curso:
+Noveno "A" Sistemas de información
+
 Integrantes:
 
 - Fabian Mauricio Diaz Analuisa
-- Jefferson Benites
-- Vinicio Guaray
+- Jefferson Jairo Benites Saenz
+- Vinicio Fialdelfo Guaray Valdiviezo
 - Marco Antonio Ayala Lituma
 
 Modo de Ejección:
