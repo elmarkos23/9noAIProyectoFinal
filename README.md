@@ -2,12 +2,12 @@
 
 Proyecto de reconocimiento de rostros
 
-Materia:
+# Materia:
 
  - Inteligencia Artificial
 
 
-Requerimientos:
+# Requerimientos:
 
  - Agregar funcionalidad, para que cada persona a ser ingresada indique su nombre. Pueden ser de 1 a 1000, cada uno debe colocar su nombre.
  - El entrenador, puede elegir de cualquier de las tres opciones detalladas y elegir por la situación que deberá justificar.
@@ -15,10 +15,10 @@ Requerimientos:
 
 
 
-Curso:
+# Curso:
  - Noveno "A" Sistemas de información
 
-Integrantes:
+# Integrantes:
 
 - Fabian Mauricio Diaz Analuisa
 - Jefferson Jairo Benites Saenz
@@ -31,12 +31,12 @@ Integrantes:
  - IDLE Shell
  - GitHub
 
-Modo de Ejección:
+# Modo de Ejección:
  - Ejecutar el primer archivo (1 capturaImagenes.py) el cual solicita el ingreso de información de los nombres y captura de fotografias
  - Ejecutar el segundo archivo (2 entrenarImagen.py) el cual internamente toma todas las imagenes y entrenar al modelo para el reconocimientos de rostros.
  - Ejecutar el tercer archivo (3 probarImagenes.py) el resultado de reconocimiento en forma virtual con la camara y los rostros que se muestren sean reconocibles.
 
-Resultados:
+# Resultados:
  - Toma de información
  
  - Entrenamiento
