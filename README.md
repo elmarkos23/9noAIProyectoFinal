@@ -25,6 +25,10 @@ Integrantes:
 - Vinicio Fialdelfo Guaray Valdiviezo
 - Marco Antonio Ayala Lituma
 
+
+# Herramientas que se utilizo:
+ - Python
+
 Modo de Ejección:
  - 
 
