@@ -4,8 +4,9 @@ import os
 import imutils
 #pip install imutils
 #path_python.exe -m pip install --upgrade pip
-
-persona ="s"
+#el contador solo permitirá ingresar hasta 1000 personas
+contador = 1
+persona = "s"
 while persona!= "n":
 	#Consultamos el nombre de la persona que vamos a caprturar
 	personName = input("Ingrese el nombre de la persona que vamos a capturar su rostros: ")
@@ -52,11 +53,16 @@ while persona!= "n":
 		cv2.imshow('frame',frame)
 
 		k =  cv2.waitKey(1)
-		if k == 27 or count >= 300:
+		if k == 27 or count >= 10:# registro de imagenes 300
 			break
 
 	cap.release()
-	persona=input("Desea ingresar otra persona (y) o (n): ")
-	if persona == "n":
-		print('Ahora vamos al entrenamiento de las imagenes capturadas')
+	if contador > 2:
+                persona = "n"
+        else:
+                persona = input("Desea ingresar otra persona (y) o (n): ")
+                if persona == "s":
+                        contado = contador + 1
+                if persona == "n":
+                        print('Ahora vamos al entrenamiento de las imagenes capturadas')
 cv2.destroyAllWindows()
